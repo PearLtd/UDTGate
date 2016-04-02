@@ -1,0 +1,13 @@
+/.cvsignore/1.4/Mon May 17 11:47:30 2010//
+/Makefile.am/1.7/Tue May 18 14:07:30 2010//
+/Makefile.in/1.9/Tue May 18 14:07:30 2010//
+/acl_table.cpp/1.1/Fri Nov  2 20:02:37 2007//
+/getifaddrs.cpp/1.3/Tue May 18 14:07:30 2010//
+/logger.cpp/1.2/Thu Sep 20 18:45:43 2007//
+/minisocks.cpp/1.2/Mon May 17 09:57:58 2010//
+/setproctitle.cpp/1.3/Mon May 17 09:57:58 2010//
+/socket_api.cpp/1.7/Sat Sep 15 15:20:27 2007//
+/udtgate.cpp/1.3/Fri Nov  2 20:02:37 2007//
+/utils.cpp/1.8/Tue May 18 14:07:30 2010//
+/worker.cpp/1.6/Sat Sep 15 15:20:27 2007//
+D
